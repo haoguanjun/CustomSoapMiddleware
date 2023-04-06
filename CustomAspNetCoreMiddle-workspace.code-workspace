@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "SoapMiddleware"
+		},
+		{
+			"path": "SoapWebApi"
+		},
+		{
+			"path": "SoapClient"
+		}
+	],
+	"settings": {}
+}
