@@ -15,7 +15,7 @@ namespace TestClient
             }
 
             // Create random inputs
-            Random numGen = new Random();
+            Random numGen = new Random(); 
             double x = numGen.NextDouble() * 20;
             double y = numGen.NextDouble() * 20;
 
